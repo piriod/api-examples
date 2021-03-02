@@ -1,0 +1,11 @@
+{
+  "customer": "cus_xxxxxxxxxxxxxx",
+  "date_start": "YYYY-MM-DD",
+  "document": "CL33",
+  "lines": [
+    {
+      "plan": "pla_xxxxxxxxxxxxxx",
+      "quantity": 1
+    }
+  ]
+}
